@@ -1,6 +1,5 @@
 package com.vinsguru.playground.tests.sec02;
 
-import com.vinsguru.playground.sec02.entity.Customer;
 import com.vinsguru.playground.sec02.repository.CustomerRepository;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
